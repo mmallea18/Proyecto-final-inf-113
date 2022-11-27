@@ -1,0 +1,27 @@
+#caja1
+h1
+{
+	color:orange;
+	text-align:center;
+}
+h2
+{
+	color:green;
+	text-align:center;
+}
+h3
+{
+	color:blue;
+	text-align:left;
+}
+p
+{
+	color:#FF8C00;
+	text-align:left;
+}
+#caja2
+h2
+{
+	color:#000080;
+	text-align:center;
+}
